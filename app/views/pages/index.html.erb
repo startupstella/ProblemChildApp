@@ -1,0 +1,7 @@
+<h1>Mistakes</h1>
+
+<ul>
+<% @mistakes.each do |mistake| %>
+  <li>(<%= mistake.severity %>) <%= mistake.name %> </li>
+<% end %>
+</ul>

@@ -1,0 +1,15 @@
+CHALLENGE:
+
+Fix this app!
+
+This is the ProblemChildApp. There are LOTS of things wrong with it. It's your job to go through it and fix all the errors using EDD (error driven development). Start with your routes, and then work your way through it until it is fully functional and showing you all of the mistakes that are in the database.
+
+When you download the file, unzip it into a directory where you keep your apps.
+
+Run bundle install from your terminal.
+
+Then run 'rake db:migrate'.
+
+Then run 'rails server'.
+
+Then go to town!
